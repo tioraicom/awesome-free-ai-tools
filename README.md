@@ -87,6 +87,7 @@ Editors, assistants, and agents that write or review code without a subscription
 - **[Roo Code](https://roocode.com/)** — VS Code agent with switchable modes for architecture, coding, and debugging. Bring your own model key. `Open Source` `VS Code`
 - **[Tabnine](https://www.tabnine.com/)** — Code completion with a free tier and an option to run the model on your own hardware. `Freemium` `VS Code` `JetBrains` · [alternatives](https://tiorai.com/alternatives/tabnine-alternatives/)
 - **[Zed](https://zed.dev/)** — Fast native editor with collaborative editing and assistant panels built in rather than bolted on. `Open Source` `Windows` `macOS` `Linux`
+- **[Codex Theme Builder](https://codextheme.tools/)** — Browser theme builder for OpenAI Codex with live preview and CSS token export. Free, no account. `Free` `Web`
 
 ## Image generation and editing
 
