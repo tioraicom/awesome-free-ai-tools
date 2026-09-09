@@ -72,6 +72,7 @@ Drafting, rewriting, grammar, and translation, without a paywall on the basics.
 - **[QuillBot](https://quillbot.com/)** — Paraphrasing and summarising with a free mode that has no daily cap on the standard rewrite. `Freemium` `Web` `Browser Extension` · [alternatives](https://tiorai.com/alternatives/quillbot-alternatives/)
 - **[Rytr](https://rytr.me/)** — Short-form copy generator with a genuinely free monthly character allowance and no card required. `Freemium` `Web` `Browser Extension`
 - **[Wordtune](https://www.wordtune.com/)** — Rewrites a sentence several ways so you can pick a tone. Free plan allows a set number of rewrites daily. `Freemium` `Web` `Browser Extension` · [alternatives](https://tiorai.com/alternatives/wordtune-alternatives/)
+- **[ResumeAI](https://withresumeai.com/)** — AI resume builder with a free ATS checker (3 checks/day with no account, 10/day with a free account). Includes State of ATS 2026. `Freemium` `Web`
 
 ## Coding
 
