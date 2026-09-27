@@ -93,6 +93,7 @@ Editors, assistants, and agents that write or review code without a subscription
 Generating, editing, and upscaling images without buying credits first.
 
 - **[ComfyUI](https://www.comfy.org/)** — Node-based interface for image and video diffusion, giving you every step of the pipeline to change. `Open Source` `Windows` `macOS` `Linux`
+- **[Raphael](https://raphael.app)** — Free unlimited AI image generator with multi-model routing; no card required.
 - **[Craiyon](https://www.craiyon.com/)** — Browser image generator that works without an account, funded by ads rather than credits. `Freemium` `Web` `iOS` `Android`
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** — Local image generator that hides the tuning knobs and asks only for a prompt. `Open Source` `Windows` `Linux`
 - **[Ideogram](https://ideogram.ai/)** — Image generator that renders legible text inside images, with a daily free allowance. `Freemium` `Web` `iOS` `Android` · [alternatives](https://tiorai.com/alternatives/ideogram-ai-alternatives/)
