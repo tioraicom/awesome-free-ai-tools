@@ -115,6 +115,7 @@ Editing, transcription, voice, and music where the free tier is worth having.
 - **[ElevenLabs](https://elevenlabs.io/)** — Speech synthesis and voice cloning, with a monthly free character allowance that resets. `Freemium` `Web` `API` · [alternatives](https://tiorai.com/alternatives/elevenlabs-alternatives/)
 - **[Kdenlive](https://kdenlive.org/)** — Multi-track video editor with speech-to-text subtitle generation built into the timeline. `Open Source` `Windows` `macOS` `Linux`
 - **[LALAL.AI](https://www.lalal.ai/)** — Splits a track into vocals, drums, bass, and other stems. Free tier processes a few minutes of audio. `Freemium` `Web`
+- **[ReelWorkshop](https://reelworkshop.com/)** — Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264 for TikTok/Reels/Shorts. Editing & preview free; finished export on Starter. `Freemium` `Web`
 - **[Riffusion](https://www.riffusion.com/)** — Music generator you can use free in the browser, with full songs and lyric input. `Freemium` `Web`
 - **[Suno](https://suno.com/)** — Generates complete songs with vocals from a text prompt. Free plan gives a daily credit allowance. `Freemium` `Web` `iOS` `Android` · [alternatives](https://tiorai.com/alternatives/suno-ai-alternatives/)
 - **[Whisper](https://github.com/openai/whisper)** — OpenAI's speech recognition model, released under a permissive licence and runnable on a laptop. `Open Source` `Windows` `macOS` `Linux` `CLI`
