@@ -1,5 +1,6 @@
 # Awesome Free AI Tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 > A curated list of useful free, freemium, and open-source AI tools.
 
 <!-- counts:start -->
