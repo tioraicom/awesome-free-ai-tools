@@ -109,8 +109,10 @@ Generating, editing, and upscaling images without buying credits first.
 Editing, transcription, voice, and music where the free tier is worth having.
 
 - **[Audacity](https://www.audacityteam.org/)** — Long-established audio editor, with plugins for noise removal and stem separation. `Open Source` `Windows` `macOS` `Linux`
+- **[Barz Studio](https://barzvideo.com/?utm_source=tioraicom-awesome-free-ai-tools&utm_medium=directory&utm_campaign=backlinks)** — Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM. `Free` `Web`
 - **[CapCut](https://www.capcut.com/)** — Video editor with free auto-captions, background removal, and templates aimed at short-form video. `Freemium` `Web` `Windows` `macOS` `iOS` `Android`
 - **[Clipchamp](https://clipchamp.com/)** — Browser video editor bundled with Windows, free for exports up to 1080p with auto-captions included. `Freemium` `Web` `Windows`
+- **[Cyanvid](https://cyanvid.com/?utm_source=tioraicom-awesome-free-ai-tools&utm_medium=directory&utm_campaign=backlinks)** — AI video generator from text or images; credit quotes before generate. `Freemium` `Web`
 - **[Descript](https://www.descript.com/)** — Edits video by editing the transcript. Free plan covers a limited number of transcription hours monthly. `Freemium` `Web` `Windows` `macOS`
 - **[ElevenLabs](https://elevenlabs.io/)** — Speech synthesis and voice cloning, with a monthly free character allowance that resets. `Freemium` `Web` `API` · [alternatives](https://tiorai.com/alternatives/elevenlabs-alternatives/)
 - **[Kdenlive](https://kdenlive.org/)** — Multi-track video editor with speech-to-text subtitle generation built into the timeline. `Open Source` `Windows` `macOS` `Linux`
