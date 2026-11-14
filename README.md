@@ -123,6 +123,7 @@ Editing, transcription, voice, and music where the free tier is worth having.
 
 Finding, reading, and keeping track of sources.
 
+- **[AIHOT Token 羊毛](https://aihot.news/free-tokens)** — Filters free AI model API allowances and coding tools by access type, with eligibility details and links to providers. `Free` `Web`
 - **[Anki](https://apps.ankiweb.net/)** — Spaced repetition flashcards with an add-on ecosystem that includes card generation from notes. `Open Source` `Web` `Windows` `macOS` `Linux` `Android`
 - **[Connected Papers](https://www.connectedpapers.com/)** — Builds a visual graph of papers related to one you already have. Several free graphs each month. `Freemium` `Web`
 - **[Consensus](https://consensus.app/)** — Searches peer-reviewed papers and summarises what the evidence actually says. Free searches are capped monthly. `Freemium` `Web`
